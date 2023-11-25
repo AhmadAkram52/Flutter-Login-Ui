@@ -6,4 +6,5 @@ A new Flutter project.
 
 ## Login Ui View
 
-![Screenshot](assets/images/screenshot.jpeg)
+[//]: # (![Screenshot]&#40;assets/images/screenshot.jpeg&#41;)
+<img src="assets/images/screenshot.jpeg" width="360" height="760" />
